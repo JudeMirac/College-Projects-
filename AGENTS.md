@@ -33,7 +33,7 @@ Read the relevant source before editing. Preserve unrelated user changes and est
 
 - Treat assignments as independent projects; do not impose one combined pipeline or shared dataset.
 - Preserve assignment questions, explanatory work, citations, and evidence of the student's analysis.
-- Retain existing filenames unless renaming is requested; the actual NLP filename differs from the README wording.
+- Retain existing filenames unless renaming is requested; keep the README aligned with the actual NLP-Asignmemt.ipynb filename.
 - Do not invent missing datasets, successful grades, results, or execution claims.
 - Review train/test separation, scaling and dimensionality-reduction fit boundaries as applicable, and avoid output churn.
 
