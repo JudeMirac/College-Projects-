@@ -12,7 +12,7 @@ This repository is a curated collection of machine learning and data science cla
 | `Linear Regression Assignment.ipynb` | Simple Linear Regression | Predicts house prices using the USA Housing dataset. Covers data loading, pairplots, regression coefficients, residual analysis, and error metrics (MAE, MSE, RMSE). |
 | `PCA Assignment.ipynb` | Principal Component Analysis | Applies PCA for dimensionality reduction, visualizes explained variance, and explores how reducing features affects model performance. |
 | `SVM Assignment.ipynb` | Support Vector Machines | Implements SVM classification, tunes kernel parameters, and evaluates model accuracy using confusion matrices and classification reports. |
-| `NLP Assignment.ipynb` | Natural Language Processing | Explores text preprocessing, tokenization, stopword removal, feature extraction, and machine learning techniques for text analysis and classification. |
+| `NLP-Asignmemt.ipynb` | Natural Language Processing | Explores text preprocessing, tokenization, stopword removal, feature extraction, and machine learning techniques for text analysis and classification. |
 
 ---
 
